@@ -9,7 +9,7 @@
 > Este estudo consiste num modelo de classificação, logo foi utilizado o modelo de machine learning ExtraTreesClassification : </br>
 
 ## Variaveis de Estudo
->* Variavel Target: ** Style: Red ou White ** </br>
+>* Variavel Target: **Style: Red ou White** </br>
 >* Variaveis independentes (Features): fixed_acidity, volatile_acidity, citric_acid, residual_sugar, 
             chlorides, free_sulfur_dioxide, total_suldur_dioxide, 
             density, ph, sulphates e alcohol
