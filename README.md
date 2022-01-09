@@ -1,4 +1,4 @@
-# Previsão do tipo do Vinho
+# Previsão do tipo de Vinho" 🍷
 
 ## Objetivo: 
 > Realizar previsão no tipo de vinho se tinto ou branco e realizar o deploy do modelo na WEB .</br>
