@@ -17,6 +17,6 @@
 
 ## Conclusão: 
 > Foi Observado que a variavel feature (Quality) é um Data leakage, sendo removido do nosso estudo </br>
-> Foi obtido uma acuracia de 0.99, logo podemos observar que nosso modelo esta acertando todas as respostas.
+> Foi obtido uma acuracia de 0.99, portanto o modelo esta acertando todas as respostas.
 > 
 ### Link do App: https://share.streamlit.io/gustavo-duarte-silva/ml-wine-type/main/app.py
